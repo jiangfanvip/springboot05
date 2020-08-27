@@ -1,0 +1,11 @@
+2020-06-22 01:33:29.711  INFO 1128 --- [main] c.j.s.Springboot05ApplicationTests       : Starting Springboot05ApplicationTests on DESKTOP-9US8CS4 with PID 1128 (started by jiangfan in D:\ide\springboot05)
+2020-06-22 01:33:29.713 DEBUG 1128 --- [main] c.j.s.Springboot05ApplicationTests       : Running with Spring Boot v2.3.1.RELEASE, Spring v5.2.7.RELEASE
+2020-06-22 01:33:29.714  INFO 1128 --- [main] c.j.s.Springboot05ApplicationTests       : No active profile set, falling back to default profiles: default
+2020-06-22 01:33:31.863  INFO 1128 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-22 01:33:32.431  INFO 1128 --- [main] c.j.s.Springboot05ApplicationTests       : Started Springboot05ApplicationTests in 3.576 seconds (JVM running for 5.78)
+2020-06-22 01:33:32.759 TRACE 1128 --- [main] c.j.s.Springboot05ApplicationTests       : trace----日志跟踪轨迹
+2020-06-22 01:33:32.760 DEBUG 1128 --- [main] c.j.s.Springboot05ApplicationTests       : debug----日志调试信息
+2020-06-22 01:33:32.760  INFO 1128 --- [main] c.j.s.Springboot05ApplicationTests       : info----答应常用日志
+2020-06-22 01:33:32.760  WARN 1128 --- [main] c.j.s.Springboot05ApplicationTests       : warn-----这是警告信息
+2020-06-22 01:33:32.760 ERROR 1128 --- [main] c.j.s.Springboot05ApplicationTests       : error-----这是错误异常信息
+2020-06-22 01:33:32.804  INFO 1128 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
